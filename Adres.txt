@@ -1,0 +1,1 @@
+Data Source=DESKTOP-VIHVETL\SQLEXPRESS;Initial Catalog=otobusotomasyonu-ryg;Integrated Security=True
